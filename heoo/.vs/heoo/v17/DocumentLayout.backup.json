@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MUZAFFER\\OneDrive\\Desktop\\C\u002B\u002B VS\\heoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F07BA288-95CD-408A-93BC-1100F11C317B}|heoo.vcxproj|C:\\Users\\MUZAFFER\\OneDrive\\Desktop\\C\u002B\u002B VS\\heoo\\heoo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F07BA288-95CD-408A-93BC-1100F11C317B}|heoo.vcxproj|solutionrelative:heoo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "heoo.cpp",
+              "DocumentMoniker": "C:\\Users\\MUZAFFER\\OneDrive\\Desktop\\C\u002B\u002B VS\\heoo\\heoo.cpp",
+              "RelativeDocumentMoniker": "heoo.cpp",
+              "ToolTip": "C:\\Users\\MUZAFFER\\OneDrive\\Desktop\\C\u002B\u002B VS\\heoo\\heoo.cpp*",
+              "RelativeToolTip": "heoo.cpp*",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAAAMoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T17:15:24.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
