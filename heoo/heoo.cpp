@@ -3,6 +3,7 @@
 #include <cstring>
 #include <cstdlib>
 #include <locale.h>
+//AD SOYAD:MUZAFFER BALABAN NO:2412721029 KONU:HEDİYELİK EŞYA OTOMASYONU
 using namespace std;
 
 struct HediyelikEya {
